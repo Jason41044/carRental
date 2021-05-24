@@ -68,7 +68,7 @@ function calcTotalBtnClicked() {
 
 
     const surchargePara = document.getElementById("surchargeFee");
-    surchargePara.innerHTML = "Under 25 surcharge $" + surcharge.toFixed(2);
+    surchargePara.innerHTML = "Under 25 surcharge: $" + surcharge.toFixed(2);
 
 
 
